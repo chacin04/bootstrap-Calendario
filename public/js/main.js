@@ -9,7 +9,7 @@
 
 
 
-        const respuesta = await fetch("LINK AQUI", {
+        const respuesta = await fetch("link", {
             method: "POST"
         })
 
